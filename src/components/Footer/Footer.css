@@ -1,0 +1,38 @@
+.footer-main{
+    margin-top: 150px;
+    margin-bottom: 0;
+    color: red;
+    background-color: blue;
+    color: white;
+    display: flex;
+    padding: 30px;
+}
+.nav{
+    display: block;
+}
+.nav .af{
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 500;
+    color: white;
+}
+.af{
+    display: block;
+}
+.footer-first{
+    width: 50%;
+}
+.footer-second{
+    width: 50%;   
+}
+input{
+    height: 60px;
+    width: 40%;
+    border-radius: 5px;
+}
+.subscribe{
+    height: 60px;
+    background-color: #ffff00;
+    border-radius: 2px;
+    font-weight: 500;
+}

@@ -1,0 +1,40 @@
+.Home-container{
+    padding: 10px;
+}
+.fourth-data{
+    text-align: center;
+    
+}
+.shaddow{
+    padding: 20px;
+    box-shadow: 2px 10px #eee8e8;
+    /* background-color: chartreuse;  */
+}
+
+.starting-home{
+    display: flex;
+}
+.starting-home img{
+    width: 50%;
+    border-radius: 5px;
+}
+ol li{
+    margin-bottom: 35px;
+}
+ul li{
+    margin-bottom: 35px;
+}
+.service-container{
+    padding: 15px;
+}
+.enrolled-container{
+    display: flex;
+}
+.enrolled-container img{
+    width: 40%;
+    margin-left: 5%;
+}
+.text{
+    width: 40%;
+    text-align: left;
+}

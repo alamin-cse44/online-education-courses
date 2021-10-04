@@ -1,0 +1,15 @@
+.images{
+    width: 300px;
+    height: 200px;
+    text-align: center;
+    margin-left: 180px;
+    border-radius: 50%;
+}
+.button{
+    padding: 10px;
+    font-size: 20px;
+    width: 200px;
+    color: white;
+    background-color: #7700ff;
+    border-radius: 10px;
+}

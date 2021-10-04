@@ -1,0 +1,32 @@
+.about-container{
+    padding: 50px;
+    /* background-color: indigo; */
+    color: #000;
+}
+.first-container{
+    display: flex;
+}
+.first-container img{
+    border-radius: 10px;
+    width: 40%;
+    margin-left: 5%;
+}
+.about-text{
+    margin-top: 25px;
+    width: 40%;
+    margin-left: 10px;
+    text-align: left;
+    justify-content: center;
+}
+
+.second-container{
+    background-color: rgb(148, 135, 14);
+    display: flex;
+    padding: 50px;
+    color: white;
+    margin-top: 150px;
+}
+.profile{
+    width: 100px;
+    border-radius: 50%;
+}
