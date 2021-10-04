@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Online Educational Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+It's the live link of my project [visit](https://online-educations.netlify.app/).
 
 ## Available Scripts
 
